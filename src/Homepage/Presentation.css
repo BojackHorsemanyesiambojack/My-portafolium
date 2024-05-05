@@ -8,8 +8,10 @@
     display: flex;
     gap:10rem;
     padding-bottom: 14rem;
+    width: 80%;
 
     h1{
+        width: 100%;
         font-size: 3rem;
     }
 }
