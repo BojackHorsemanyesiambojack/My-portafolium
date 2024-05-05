@@ -87,7 +87,7 @@ function Presentation() {
               <div className='image'>
               <span><h3 className='dash'>Instagram static clone</h3></span>
                 <img src={instagramCloneMedia}/>
-                <a><button className='look-but'>Take a look</button></a>
+                <a href='https://BojackHorsemanyesiambojack.github.io/Instagram-clone'><button className='look-but'>Take a look</button></a>
               </div>
               <div className='image-desc'></div>
             </div>
