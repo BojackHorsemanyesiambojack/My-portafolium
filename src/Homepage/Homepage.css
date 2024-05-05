@@ -30,7 +30,7 @@
 @media (max-width:1100px) {
     .menu-icon{
         display: flex;
-        position:absolute;
+        position:fixed;
     }
 
     #nav-cont{
