@@ -6,7 +6,7 @@ import logo from './Assets/mylogo.jpg'
 
 function Nav() {
   return (
-    <div className='nav'>
+    <div className='nav' id='nav'>
         <div className='display-nav'>
             <div className='logo'>
                 <img src={logo}/>
