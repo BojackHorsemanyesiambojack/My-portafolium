@@ -1,5 +1,5 @@
 {
-  "homepage":"https://BojackHorsemanyesiambojack.github.io/My-portafolium",
+  "homepage": "https://BojackHorsemanyesiambojack.github.io/My-portafolium",
   "name": "portafolium",
   "version": "0.1.0",
   "private": false,
@@ -23,8 +23,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
