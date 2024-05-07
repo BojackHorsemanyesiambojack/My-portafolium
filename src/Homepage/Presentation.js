@@ -2,7 +2,11 @@ import React from 'react'
 import './Presentation.css'
 import ProgressBar from "@ramonak/react-progress-bar";
 import instagramCloneMedia from './Assets/project_media/Instagram_project.jpg';
-import { Button } from '@mui/material';
+import moonLibrary from './Assets/project_media/moon_library_project.jpg'
+import { Button, colors } from '@mui/material';
+import { FaReact } from "react-icons/fa";
+import { blue } from '@mui/material/colors';
+import { FaPython } from "react-icons/fa";
 
 function Presentation() {
   return (
@@ -86,10 +90,31 @@ function Presentation() {
             <div className='element'>
               <div className='image'>
               <span><h3 className='dash'>Instagram static clone</h3></span>
-                <img src={instagramCloneMedia}/>
+              <div className='imgsour'>
+              <img src={instagramCloneMedia}/>
+              </div>
+              <div className='image-desc'>
+                <span>A little instagram clone</span>
+              </div>
+                <footer className='image-footer'><FaReact className='lang-icon' id='react'/></footer>
                 <a href='https://BojackHorsemanyesiambojack.github.io/Instagram-clone'><button className='look-but'>Take a look</button></a>
               </div>
-              <div className='image-desc'></div>
+            </div>
+            <div className='element'>
+              <div className='image'>
+              <span><h3 className='dash'>Moon's library</h3></span>
+              <div className='imgsour'>
+              <img src={moonLibrary}/>
+              </div>
+              <div className='image-desc'>
+                <span>A library's web with a python backend created with FastApi</span>
+              </div>
+                <footer className='image-footer'>
+                  <FaReact className='lang-icon' id='react'/>
+                  <FaPython className='lang-icon' id='python'/>
+                  </footer>
+                <a href='https://BojackHorsemanyesiambojack.github.io/Instagram-clone'><button className='look-but'>Take a look</button></a>
+              </div>
             </div>
           </div>
         </div>
@@ -102,15 +127,6 @@ function Presentation() {
       <div className='contact-form'>
         <form className='contact' action='Post'>
           <div className='input_cont'>
-            <div className='input'>
-            <label for='name'>Name</label><input type='text' name='name' id='name'/>
-            </div>
-            <div className='input'>
-            <label for='description'>Description</label><input type='text'  id='description'/>
-            </div>
-          </div>
-          <div className='submit'>
-          <input type='submit' className='submit'/>
           </div>
           
         </form>

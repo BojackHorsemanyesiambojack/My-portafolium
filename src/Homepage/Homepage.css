@@ -2,6 +2,7 @@
     display: flex;
     flex-direction: row;
     gap:2.5rem;
+    overflow: hidden;
 }
 
 .aside{
@@ -31,9 +32,13 @@
     .menu-icon{
         display: flex;
         position:fixed;
+        right:10px;
     }
 
     #nav-cont{
         display: none;
     }
 }
+
+
+
