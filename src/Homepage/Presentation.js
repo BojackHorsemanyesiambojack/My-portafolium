@@ -1,5 +1,6 @@
 import React from 'react'
 import './Presentation.css'
+
 import ProgressBar from "@ramonak/react-progress-bar";
 import instagramCloneMedia from './Assets/project_media/Instagram_project.jpg';
 import moonLibrary from './Assets/project_media/moon_library_project.jpg'
