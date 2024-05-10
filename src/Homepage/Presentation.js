@@ -7,7 +7,6 @@ import { Button, colors } from '@mui/material';
 import { FaReact } from "react-icons/fa";
 import { blue } from '@mui/material/colors';
 import { FaPython } from "react-icons/fa";
-import './Presentation-mediaQuery.css';
 
 function Presentation() {
   return (
