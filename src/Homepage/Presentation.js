@@ -16,7 +16,7 @@ function Presentation() {
         <div className='page-presentation' id='About'>
           <div className='presentation-title'>
           <div class='hi'>
-          <h1>Hisada, i'm Johandry Luna</h1>
+          <h1>Hi, i'm Johandry Luna</h1>
           <h2>i'm a frontend developer</h2>
           </div>
           <div className='image-me'>
