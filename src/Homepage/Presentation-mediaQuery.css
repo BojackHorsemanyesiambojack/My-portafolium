@@ -1,0 +1,59 @@
+@media (min-width:1100px) {
+    .page-presentation{
+        margin-left: 1.5rem;
+    }
+}
+
+@media (max-width:940px) {
+    .presentation-title{
+        flex-direction: column;
+        margin-left: 0;
+    }
+
+    .project-show{
+        width: 80%;
+        flex-direction: column;
+        align-items: center;
+        .row{
+            flex-direction: column;
+            gap:10rem;
+
+            .element{
+                display: block;
+            }
+        }
+    }
+
+    .image-me{
+        align-items: center;
+    }
+
+    .presentation{
+        margin-left: 0;
+    }
+
+    .page-presentation{
+        margin-left: 0;
+    }
+
+    .skills-show{
+
+        .row{
+            display:flex;
+            flex-direction: column;
+        }
+    }
+
+}
+
+@media (max-width:700px){
+    .input_cont{
+        flex-direction: column;
+    }
+}
+
+@media(max-width:940px){
+    .image-me{
+        margin-left: 20%;
+    }
+}
