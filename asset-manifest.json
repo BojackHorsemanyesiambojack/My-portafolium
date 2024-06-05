@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/My-portafolium/static/css/main.b0d61cec.css",
-    "main.js": "/My-portafolium/static/js/main.faab80dc.js",
+    "main.css": "/My-portafolium/static/css/main.16a96bfc.css",
+    "main.js": "/My-portafolium/static/js/main.0a7be439.js",
+    "static/media/app-release.apk": "/My-portafolium/static/media/app-release.729ae96aa1b84d7639ac.apk",
+    "static/media/nasaApp.png": "/My-portafolium/static/media/nasaApp.bbb8076112752e805a78.png",
     "static/media/Instagram_project.jpg": "/My-portafolium/static/media/Instagram_project.8ba9999239a8090bf082.jpg",
     "static/media/mylogo.jpg": "/My-portafolium/static/media/mylogo.71e764f7ba6c8f563171.jpg",
     "static/media/moon-lib.jpg": "/My-portafolium/static/media/moon-lib.1dc7e125bdc928c489f7.jpg",
     "static/media/toDo.png": "/My-portafolium/static/media/toDo.030e2b9d8279b18744f1.png",
+    "static/media/Calculator.png": "/My-portafolium/static/media/Calculator.ff421a20d2d6f5599525.png",
     "index.html": "/My-portafolium/index.html",
-    "main.b0d61cec.css.map": "/My-portafolium/static/css/main.b0d61cec.css.map",
-    "main.faab80dc.js.map": "/My-portafolium/static/js/main.faab80dc.js.map"
+    "main.16a96bfc.css.map": "/My-portafolium/static/css/main.16a96bfc.css.map",
+    "main.0a7be439.js.map": "/My-portafolium/static/js/main.0a7be439.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0d61cec.css",
-    "static/js/main.faab80dc.js"
+    "static/css/main.16a96bfc.css",
+    "static/js/main.0a7be439.js"
   ]
 }
