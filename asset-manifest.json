@@ -1,20 +1,18 @@
 {
   "files": {
-    "main.css": "/My-portafolium/static/css/main.16a96bfc.css",
-    "main.js": "/My-portafolium/static/js/main.0a7be439.js",
-    "static/media/app-release.apk": "/My-portafolium/static/media/app-release.729ae96aa1b84d7639ac.apk",
-    "static/media/nasaApp.png": "/My-portafolium/static/media/nasaApp.bbb8076112752e805a78.png",
-    "static/media/Instagram_project.jpg": "/My-portafolium/static/media/Instagram_project.8ba9999239a8090bf082.jpg",
-    "static/media/mylogo.jpg": "/My-portafolium/static/media/mylogo.71e764f7ba6c8f563171.jpg",
-    "static/media/moon-lib.jpg": "/My-portafolium/static/media/moon-lib.1dc7e125bdc928c489f7.jpg",
-    "static/media/toDo.png": "/My-portafolium/static/media/toDo.030e2b9d8279b18744f1.png",
-    "static/media/Calculator.png": "/My-portafolium/static/media/Calculator.ff421a20d2d6f5599525.png",
+    "main.css": "/My-portafolium/static/css/main.69bea597.css",
+    "main.js": "/My-portafolium/static/js/main.c9442ebb.js",
+    "static/media/Csharp.png": "/My-portafolium/static/media/Csharp.f47b5ff2ccf6f65d3dbf.png",
+    "static/media/me.png": "/My-portafolium/static/media/me.50799b52b2955a06ccf6.png",
+    "static/media/fcclogo.png": "/My-portafolium/static/media/fcclogo.defd378f88ad65e688e1.png",
+    "static/media/Calculator.png": "/My-portafolium/static/media/Calculator.8fd6e88c0ea5beb7584c.png",
+    "static/media/ToDo.png": "/My-portafolium/static/media/ToDo.73c9cbd048acd45b689c.png",
     "index.html": "/My-portafolium/index.html",
-    "main.16a96bfc.css.map": "/My-portafolium/static/css/main.16a96bfc.css.map",
-    "main.0a7be439.js.map": "/My-portafolium/static/js/main.0a7be439.js.map"
+    "main.69bea597.css.map": "/My-portafolium/static/css/main.69bea597.css.map",
+    "main.c9442ebb.js.map": "/My-portafolium/static/js/main.c9442ebb.js.map"
   },
   "entrypoints": [
-    "static/css/main.16a96bfc.css",
-    "static/js/main.0a7be439.js"
+    "static/css/main.69bea597.css",
+    "static/js/main.c9442ebb.js"
   ]
 }
