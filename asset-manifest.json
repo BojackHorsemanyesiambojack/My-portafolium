@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/My-portafolium/static/css/main.0c67a086.css",
-    "main.js": "/My-portafolium/static/js/main.f5a3d948.js",
-    "static/media/Instagram.png": "/My-portafolium/static/media/Instagram.8884a4130170239f14da.png",
+    "main.css": "/My-portafolium/static/css/main.ce923593.css",
+    "main.js": "/My-portafolium/static/js/main.e73fc82b.js",
+    "static/media/Johandry_Resume_284.pdf": "/My-portafolium/static/media/Johandry_Resume_284.9a1a1badaeadf8dcebc2.pdf",
     "static/media/me.png": "/My-portafolium/static/media/me.dcba36d53ae6d60a7fbe.png",
-    "static/media/Johandry_Resume_284.pdf": "/My-portafolium/static/media/Johandry_Resume_284.eb35bbe0dc84bc2fe888.pdf",
     "static/media/Csharp.png": "/My-portafolium/static/media/Csharp.f47b5ff2ccf6f65d3dbf.png",
     "static/media/fcclogo.png": "/My-portafolium/static/media/fcclogo.defd378f88ad65e688e1.png",
     "static/media/Calculator.png": "/My-portafolium/static/media/Calculator.8fd6e88c0ea5beb7584c.png",
     "static/media/ToDo.png": "/My-portafolium/static/media/ToDo.73c9cbd048acd45b689c.png",
     "index.html": "/My-portafolium/index.html",
-    "main.0c67a086.css.map": "/My-portafolium/static/css/main.0c67a086.css.map",
-    "main.f5a3d948.js.map": "/My-portafolium/static/js/main.f5a3d948.js.map"
+    "main.ce923593.css.map": "/My-portafolium/static/css/main.ce923593.css.map",
+    "main.e73fc82b.js.map": "/My-portafolium/static/js/main.e73fc82b.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c67a086.css",
-    "static/js/main.f5a3d948.js"
+    "static/css/main.ce923593.css",
+    "static/js/main.e73fc82b.js"
   ]
 }
